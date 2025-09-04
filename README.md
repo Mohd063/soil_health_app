@@ -5,8 +5,8 @@ A Flutter application that connects to a Bluetooth device to retrieve soil tempe
 ---
 
 ## 📲 Download / Demo
-- **Demo Video:** [Download App](https://drive.google.com/file/d/1y7dp1C9IYFopr23brkwQgFdPwAMDaWLP/view?usp=drivesdk) 
-- **App Link:** [Watch Demo](https://drive.google.com/file/d/1rvCDUteTqXqkfgjMU8gYLrj1WAwfYKxE/view?usp=drivesdk)  
+- **Demo Video:** [Watch Demo](https://drive.google.com/file/d/1y7dp1C9IYFopr23brkwQgFdPwAMDaWLP/view?usp=drivesdk) 
+- **App Link:** [Download App](https://drive.google.com/file/d/1rvCDUteTqXqkfgjMU8gYLrj1WAwfYKxE/view?usp=drivesdk)  
 
 ---
 
